@@ -1,0 +1,14 @@
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\bin\Release\DemoAppNgheNhac.exe.config
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\bin\Release\DemoAppNgheNhac.exe
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\bin\Release\DemoAppNgheNhac.pdb
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\bin\Release\Interop.WMPLib.dll
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\bin\Release\AxInterop.WMPLib.dll
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\obj\Release\DemoAppNgheNhac.csprojResolveAssemblyReference.cache
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\obj\Release\Interop.WMPLib.dll
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\obj\Release\AxInterop.WMPLib.dll
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\obj\Release\DemoAppNgheNhac.csproj.ResolveComReference.cache
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\obj\Release\DemoAppNgheNhac.Form1.resources
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\obj\Release\DemoAppNgheNhac.Properties.Resources.resources
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\obj\Release\DemoAppNgheNhac.csproj.GenerateResource.Cache
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\obj\Release\DemoAppNgheNhac.exe
+C:\Users\BaoDuy\Documents\Visual Studio 2015\Projects\DemoAppNgheNhac\DemoAppNgheNhac\obj\Release\DemoAppNgheNhac.pdb
